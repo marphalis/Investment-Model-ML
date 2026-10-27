@@ -1,1 +1,1 @@
-# Model-gie-dowy-ML
+# Investment Model ML
