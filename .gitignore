@@ -1,6 +1,25 @@
+# Data files
 /Data/BRENT/BRENT.csv
 /Data/SQQQ/SQQQ.csv
 /Data/USO/USO.csv
 /Data/BRENT/BRENT_clean.csv
 /Data/SQQQ/SQQQ_clean.csv
 /Data/USO/USO_clean.csv
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments & external packages
+.venv/
+venv/
+env/
+ENV/
+site-packages/
+
+# JetBrains PyCharm & IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
