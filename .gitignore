@@ -16,5 +16,7 @@ site-packages/
 *.swp
 *.swo
 
+Models/
+
 Logistic Regression Test.py
 Training Logistical Regression.ipynb
